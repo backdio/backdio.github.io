@@ -55,16 +55,6 @@ BACKD is built on the belief that the best early-stage startups should surface t
 
 ---
 
-### Tech Stack
-
-- Next.js
-- Supabase
-- TypeScript
-- Tailwind CSS
-- Whop (payments)
-
----
-
 ### Disclaimer
 
 BACKD is a community discovery and opinion platform.  
@@ -77,7 +67,6 @@ Backing, Boosts, and rankings are **not** financial advice or securities.
 ### Contact
 
 - Website: [https://backd.io](https://backd.io)
-- Twitter / X: [@backd](https://x.com/backd) *(update if different)*
 
 ---
 
