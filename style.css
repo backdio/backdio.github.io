@@ -1,0 +1,19 @@
+:root{--bg:#fff;--ink:#15171c;--mute:#5b6270;--line:#e3e6ec;--panel:#f3f5f9;--acc:#2447f5}
+@media(prefers-color-scheme:dark){:root{--bg:#0f1218;--ink:#eceff5;--mute:#9aa3b2;--line:#252b36;--panel:#171c26;--acc:#7f9bff}}
+*{box-sizing:border-box}html{scroll-padding-top:4rem}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.65 'Instrument Sans',system-ui,sans-serif}
+a{color:var(--acc)}a:focus-visible,summary:focus-visible{outline:3px solid var(--acc);outline-offset:3px}
+header,main,footer{max-width:46rem;margin:0 auto;padding:0 1.25rem}
+header{display:flex;flex-wrap:wrap;gap:.5rem 1.4rem;align-items:baseline;padding-top:1.4rem;padding-bottom:1.4rem;border-bottom:1px solid var(--line)}
+.logo{font:800 1.3rem 'Bricolage Grotesque',system-ui,sans-serif;text-decoration:none;color:var(--ink);margin-right:auto}
+nav a{color:var(--mute);text-decoration:none;font-size:.9rem;margin-right:1rem}nav a:hover{color:var(--ink)}
+h1{font:800 clamp(2.4rem,7vw,4.2rem)/1.02 'Bricolage Grotesque',system-ui,sans-serif;letter-spacing:-.03em;margin:3.5rem 0 1.2rem}
+h2{font:700 1.5rem/1.2 'Bricolage Grotesque',system-ui,sans-serif;margin:2.6rem 0 .6rem}
+.lede{font-size:1.2rem;color:var(--mute);max-width:38rem}
+.cta{display:inline-block;margin:1.2rem 0 .5rem;padding:.75rem 1.3rem;background:var(--acc);color:#fff;border-radius:6px;text-decoration:none;font-weight:600}
+@media(prefers-color-scheme:dark){.cta{color:#0f1218}}
+code,pre{font:.9rem ui-monospace,Menlo,monospace}code{background:var(--panel);padding:.1em .35em;border-radius:4px}
+pre{background:var(--panel);padding:1rem;overflow-x:auto;border-left:3px solid var(--acc);border-radius:4px}pre code{padding:0;background:none}
+details{border-top:1px solid var(--line);padding:.8rem 0}summary{cursor:pointer;font-weight:600}
+footer{padding-top:2rem;padding-bottom:3rem;color:var(--mute);font-size:.85rem}
+.guides{list-style:none;padding:0;margin:0}.guides li{border-top:1px solid var(--line);padding:1rem 0}.guides a{font:700 1.25rem 'Bricolage Grotesque',system-ui,sans-serif}.guides p{margin:.25rem 0 0;color:var(--mute)}
