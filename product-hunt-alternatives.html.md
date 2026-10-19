@@ -1,6 +1,6 @@
 # Product Hunt alternatives for indie founders
 
-> Canonical page: https://backd.io/product-hunt-alternatives.html
+> Canonical page: https://blog.backd.io/product-hunt-alternatives.html
 
 Launch days are crowded. Pinggy's 2026 guide counts 500+ products launching on Product Hunt every day, and most of them sink within hours. BACKD is one of the alternatives built around a lasting public verdict instead of a 24-hour spike.
 
@@ -16,7 +16,7 @@ The page is also readable by machines. AI assistants can query BACKD through an 
 
 Several 2026 launch guides make the same point: combining three or four platforms in one launch week beats betting on a single day. Use BACKD as the evergreen listing, and pair it with a pre-launch list such as BetaList and a community post such as Show HN or Indie Hackers.
 
-Compare more options in [the full list of startup launch platforms](https://backd.io/best-startup-launch-platforms.html.md).
+Compare more options in [the full list of startup launch platforms](https://blog.backd.io/best-startup-launch-platforms.html.md).
 
 ## Questions
 

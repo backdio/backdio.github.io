@@ -1,6 +1,6 @@
 # Launch and discovery guides for early-stage startups
 
-> Canonical page: https://backd.io/index.html
+> Canonical page: https://blog.backd.io/index.html
 
 BACKD is a community-ranked startup directory that AI agents can query. These guides cover where to launch, how to compare platforms, and how agents find startups.
 
@@ -8,16 +8,16 @@ BACKD is a community-ranked startup directory that AI agents can query. These gu
 
 ## Guides
 
-- [Product Hunt alternatives for indie founders](https://backd.io/product-hunt-alternatives.html.md): Why launch days get crowded and how a lasting community verdict differs.
-- [A PeerPush alternative with community verdicts](https://backd.io/peerpush-alternative.html.md): How the two platforms differ in how a startup earns its position.
-- [Best startup launch platforms in 2026](https://backd.io/best-startup-launch-platforms.html.md): A shortlist by stage, and how to sequence them over a launch week.
-- [A startup directory AI agents can query](https://backd.io/startup-directory-for-ai-agents.html.md): Connect through MCP or REST with no API key.
+- [Product Hunt alternatives for indie founders](https://blog.backd.io/product-hunt-alternatives.html.md): Why launch days get crowded and how a lasting community verdict differs.
+- [A PeerPush alternative with community verdicts](https://blog.backd.io/peerpush-alternative.html.md): How the two platforms differ in how a startup earns its position.
+- [Best startup launch platforms in 2026](https://blog.backd.io/best-startup-launch-platforms.html.md): A shortlist by stage, and how to sequence them over a launch week.
+- [A startup directory AI agents can query](https://blog.backd.io/startup-directory-for-ai-agents.html.md): Connect through MCP or REST with no API key.
 
 ---
 
 # Product Hunt alternatives for indie founders
 
-> Canonical page: https://backd.io/product-hunt-alternatives.html
+> Canonical page: https://blog.backd.io/product-hunt-alternatives.html
 
 Launch days are crowded. Pinggy's 2026 guide counts 500+ products launching on Product Hunt every day, and most of them sink within hours. BACKD is one of the alternatives built around a lasting public verdict instead of a 24-hour spike.
 
@@ -33,7 +33,7 @@ The page is also readable by machines. AI assistants can query BACKD through an 
 
 Several 2026 launch guides make the same point: combining three or four platforms in one launch week beats betting on a single day. Use BACKD as the evergreen listing, and pair it with a pre-launch list such as BetaList and a community post such as Show HN or Indie Hackers.
 
-Compare more options in [the full list of startup launch platforms](https://backd.io/best-startup-launch-platforms.html.md).
+Compare more options in [the full list of startup launch platforms](https://blog.backd.io/best-startup-launch-platforms.html.md).
 
 ## Questions
 
@@ -49,7 +49,7 @@ Yes. Many founders list on several platforms during launch week and keep one lis
 
 # A PeerPush alternative with community verdicts
 
-> Canonical page: https://backd.io/peerpush-alternative.html
+> Canonical page: https://blog.backd.io/peerpush-alternative.html
 
 PeerPush and BACKD are both startup discovery platforms that care about being found by AI systems. They differ in how a startup earns its position.
 
@@ -71,7 +71,7 @@ Every listing receives public Back or Pass votes from the community. The result 
 
 - You prefer its launch-board format and community. PeerPush describes its own product data as structured for AI recommendation, so review it side by side before deciding.
 
-Browse other options in [best startup launch platforms](https://backd.io/best-startup-launch-platforms.html.md).
+Browse other options in [best startup launch platforms](https://blog.backd.io/best-startup-launch-platforms.html.md).
 
 ## Questions
 
@@ -87,7 +87,7 @@ No. BACKD makes your listing queryable and measures real reads from its own logs
 
 # Best startup launch platforms in 2026
 
-> Canonical page: https://backd.io/best-startup-launch-platforms.html
+> Canonical page: https://blog.backd.io/best-startup-launch-platforms.html
 
 No single platform is enough. The pattern across recent launch guides is to sequence several: pre-launch, launch day, then one evergreen listing.
 
@@ -111,7 +111,7 @@ No single platform is enough. The pattern across recent launch guides is to sequ
 
 Start with a waitlist before you ship, launch on two or three boards in the same week, and keep one directory listing live afterwards. BACKD works well as that last step because the page keeps collecting votes and stays readable by AI agents.
 
-See also [Product Hunt alternatives for indie founders](https://backd.io/product-hunt-alternatives.html.md).
+See also [Product Hunt alternatives for indie founders](https://blog.backd.io/product-hunt-alternatives.html.md).
 
 ## Questions
 
@@ -127,7 +127,7 @@ They help most when you are early and have no audience, and when a listing stays
 
 # A startup directory AI agents can query
 
-> Canonical page: https://backd.io/startup-directory-for-ai-agents.html
+> Canonical page: https://blog.backd.io/startup-directory-for-ai-agents.html
 
 When an assistant looks up a category or a competitor set, it needs structured data it can fetch. BACKD exposes its startup catalog through MCP and REST, with no key required.
 

@@ -1,6 +1,6 @@
 # A PeerPush alternative with community verdicts
 
-> Canonical page: https://backd.io/peerpush-alternative.html
+> Canonical page: https://blog.backd.io/peerpush-alternative.html
 
 PeerPush and BACKD are both startup discovery platforms that care about being found by AI systems. They differ in how a startup earns its position.
 
@@ -22,7 +22,7 @@ Every listing receives public Back or Pass votes from the community. The result 
 
 - You prefer its launch-board format and community. PeerPush describes its own product data as structured for AI recommendation, so review it side by side before deciding.
 
-Browse other options in [best startup launch platforms](https://backd.io/best-startup-launch-platforms.html.md).
+Browse other options in [best startup launch platforms](https://blog.backd.io/best-startup-launch-platforms.html.md).
 
 ## Questions
 

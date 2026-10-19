@@ -1,6 +1,6 @@
 # Best startup launch platforms in 2026
 
-> Canonical page: https://backd.io/best-startup-launch-platforms.html
+> Canonical page: https://blog.backd.io/best-startup-launch-platforms.html
 
 No single platform is enough. The pattern across recent launch guides is to sequence several: pre-launch, launch day, then one evergreen listing.
 
@@ -24,7 +24,7 @@ No single platform is enough. The pattern across recent launch guides is to sequ
 
 Start with a waitlist before you ship, launch on two or three boards in the same week, and keep one directory listing live afterwards. BACKD works well as that last step because the page keeps collecting votes and stays readable by AI agents.
 
-See also [Product Hunt alternatives for indie founders](https://backd.io/product-hunt-alternatives.html.md).
+See also [Product Hunt alternatives for indie founders](https://blog.backd.io/product-hunt-alternatives.html.md).
 
 ## Questions
 

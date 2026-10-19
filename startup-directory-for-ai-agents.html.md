@@ -1,6 +1,6 @@
 # A startup directory AI agents can query
 
-> Canonical page: https://backd.io/startup-directory-for-ai-agents.html
+> Canonical page: https://blog.backd.io/startup-directory-for-ai-agents.html
 
 When an assistant looks up a category or a competitor set, it needs structured data it can fetch. BACKD exposes its startup catalog through MCP and REST, with no key required.
 
