@@ -1,0 +1,22 @@
+# BACKD
+
+> BACKD is a community-ranked startup directory. People vote Back or Pass on early-stage startups, and the catalog is queryable by AI agents through a public MCP server and REST API with no API key.
+
+These guides cover where early-stage founders can launch and how to compare launch platforms. Each page has a clean Markdown version at the same URL with .md appended.
+
+## Guides
+
+- [All guides](https://backd.io/index.html.md): Overview of the guides below.
+- [Product Hunt alternatives for indie founders](https://backd.io/product-hunt-alternatives.html.md): Why launch days get crowded and how a lasting community verdict differs.
+- [A PeerPush alternative with community verdicts](https://backd.io/peerpush-alternative.html.md): How the two platforms differ in how a startup earns its position.
+- [Best startup launch platforms in 2026](https://backd.io/best-startup-launch-platforms.html.md): A shortlist by stage and how to sequence them over a launch week.
+
+## Agent access
+
+- [A startup directory AI agents can query](https://backd.io/startup-directory-for-ai-agents.html.md): MCP and REST usage, tools, and what listing does and does not promise.
+- [BACKD agents page](https://backd.io/agents): Live documentation for agent access.
+- [API reference](https://backd.io/api-reference): REST contract.
+
+## Optional
+
+- [Full text of all guides](https://backd.io/llms-full.txt): Every guide concatenated in one file.

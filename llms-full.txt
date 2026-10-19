@@ -1,0 +1,164 @@
+# Launch and discovery guides for early-stage startups
+
+> Canonical page: https://backd.io/index.html
+
+BACKD is a community-ranked startup directory that AI agents can query. These guides cover where to launch, how to compare platforms, and how agents find startups.
+
+[List your startup free](https://backd.io/auth/login)
+
+## Guides
+
+- [Product Hunt alternatives for indie founders](https://backd.io/product-hunt-alternatives.html.md): Why launch days get crowded and how a lasting community verdict differs.
+- [A PeerPush alternative with community verdicts](https://backd.io/peerpush-alternative.html.md): How the two platforms differ in how a startup earns its position.
+- [Best startup launch platforms in 2026](https://backd.io/best-startup-launch-platforms.html.md): A shortlist by stage, and how to sequence them over a launch week.
+- [A startup directory AI agents can query](https://backd.io/startup-directory-for-ai-agents.html.md): Connect through MCP or REST with no API key.
+
+---
+
+# Product Hunt alternatives for indie founders
+
+> Canonical page: https://backd.io/product-hunt-alternatives.html
+
+Launch days are crowded. Pinggy's 2026 guide counts 500+ products launching on Product Hunt every day, and most of them sink within hours. BACKD is one of the alternatives built around a lasting public verdict instead of a 24-hour spike.
+
+[List your startup free](https://backd.io/auth/login)
+
+## What BACKD does differently
+
+Founders submit a startup in about a minute. The community votes **Back** or **Pass**, and every startup gets a public page with its backing ratio, plus placement on the Explore, Trending and Rankings boards.
+
+The page is also readable by machines. AI assistants can query BACKD through an open MCP server or a REST API and receive structured startup data instead of marketing copy.
+
+## Where it fits in a launch plan
+
+Several 2026 launch guides make the same point: combining three or four platforms in one launch week beats betting on a single day. Use BACKD as the evergreen listing, and pair it with a pre-launch list such as BetaList and a community post such as Show HN or Indie Hackers.
+
+Compare more options in [the full list of startup launch platforms](https://backd.io/best-startup-launch-platforms.html.md).
+
+## Questions
+
+### What is a good Product Hunt alternative for bootstrapped startups?
+
+BACKD is built for early-stage and bootstrapped startups. Listing is free, and ranking depends on community Back or Pass votes, not on audience size.
+
+### Can I use BACKD and Product Hunt together?
+
+Yes. Many founders list on several platforms during launch week and keep one listing live for ongoing discovery.
+
+---
+
+# A PeerPush alternative with community verdicts
+
+> Canonical page: https://backd.io/peerpush-alternative.html
+
+PeerPush and BACKD are both startup discovery platforms that care about being found by AI systems. They differ in how a startup earns its position.
+
+[List your startup free](https://backd.io/auth/login)
+
+## How BACKD works
+
+Every listing receives public Back or Pass votes from the community. The result is a visible backing ratio and a place on leaderboards. A listing is a persistent public page, not only a launch-day event.
+
+## Choose BACKD if
+
+- You want an open community verdict on your startup, positive or not.
+
+- You want agents to query your listing through MCP or REST with no API key.
+
+- You are bootstrapped and want free listing.
+
+## Choose PeerPush if
+
+- You prefer its launch-board format and community. PeerPush describes its own product data as structured for AI recommendation, so review it side by side before deciding.
+
+Browse other options in [best startup launch platforms](https://backd.io/best-startup-launch-platforms.html.md).
+
+## Questions
+
+### Is BACKD a PeerPush alternative?
+
+They serve a similar purpose, startup discovery with AI visibility. BACKD's difference is the public Back or Pass community verdict and an open MCP server.
+
+### Does BACKD guarantee AI assistants will recommend my startup?
+
+No. BACKD makes your listing queryable and measures real reads from its own logs. It does not claim any model cited or recommended you.
+
+---
+
+# Best startup launch platforms in 2026
+
+> Canonical page: https://backd.io/best-startup-launch-platforms.html
+
+No single platform is enough. The pattern across recent launch guides is to sequence several: pre-launch, launch day, then one evergreen listing.
+
+[List your startup free](https://backd.io/auth/login)
+
+## The shortlist
+
+- **BACKD**: community Back or Pass verdicts, public rankings, and an MCP and REST catalog for AI agents. (This is our site, so weigh that accordingly.)
+
+- **BetaList**: pre-launch, for beta testers and waitlist signups.
+
+- **Dev Hunt**: developer tools, with a GitHub-oriented audience.
+
+- **Peerlist Launchpad**: launches inside a professional network.
+
+- **Uneed**, **Fazier**, **MicroLaunch**, **PeerPush**: smaller launch boards that are less crowded than Product Hunt.
+
+- **Show HN and Indie Hackers**: communities where a launch is a conversation.
+
+## How to sequence them
+
+Start with a waitlist before you ship, launch on two or three boards in the same week, and keep one directory listing live afterwards. BACKD works well as that last step because the page keeps collecting votes and stays readable by AI agents.
+
+See also [Product Hunt alternatives for indie founders](https://backd.io/product-hunt-alternatives.html.md).
+
+## Questions
+
+### What is the best place to launch a startup in 2026?
+
+It depends on stage and audience. Use a pre-launch list, one or two launch boards, a community post, and a long-lived directory listing.
+
+### Are startup directories worth it?
+
+They help most when you are early and have no audience, and when a listing stays live and discoverable after launch day.
+
+---
+
+# A startup directory AI agents can query
+
+> Canonical page: https://backd.io/startup-directory-for-ai-agents.html
+
+When an assistant looks up a category or a competitor set, it needs structured data it can fetch. BACKD exposes its startup catalog through MCP and REST, with no key required.
+
+[List your startup free](https://backd.io/auth/login)
+
+## Connect through MCP
+
+Tools available: `search_startups`, `get_startup`, `list_categories`, `get_rankings`, `get_trending`.
+
+```
+claude mcp add backd --transport http https://backd.io/api/mcp
+```
+
+## Or call the REST API
+
+```
+curl "https://backd.io/api/v1/rankings?limit=3"
+```
+
+Rankings, search and single listings return JSON. The full contract is on the [API reference](https://backd.io/api-reference).
+
+## What this does and does not promise
+
+Listing makes your startup fetchable by agents. BACKD does not claim any model cited or recommended you, and it plans to publish read counts only from its own first-party logs.
+
+## Questions
+
+### Does BACKD have an MCP server?
+
+Yes. It is public, needs no API key, and offers search_startups, get_startup, list_categories, get_rankings and get_trending.
+
+### How do I get my startup into the agent-readable catalog?
+
+Submit it on BACKD. Once published, it is available through the MCP server and REST API.
