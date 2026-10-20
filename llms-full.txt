@@ -19,7 +19,7 @@ BACKD is a community-ranked startup directory that AI agents can query. These gu
 
 > Canonical page: https://blog.backd.io/product-hunt-alternatives.html
 
-Launch days are crowded. Pinggy's 2026 guide counts 500+ products launching on Product Hunt every day, and most of them sink within hours. BACKD is one of the alternatives built around a lasting public verdict instead of a 24-hour spike.
+Launch days are crowded. [Pinggy's 2026 guide](https://pinggy.io/blog/best_producthunt_alternatives/) counts 500+ products launching on Product Hunt every day, and most of them sink within hours. BACKD is one of the alternatives built around a lasting public verdict instead of a 24-hour spike.
 
 [List your startup free](https://backd.io/auth/login)
 
@@ -34,6 +34,22 @@ The page is also readable by machines. AI assistants can query BACKD through an 
 Several 2026 launch guides make the same point: combining three or four platforms in one launch week beats betting on a single day. Use BACKD as the evergreen listing, and pair it with a pre-launch list such as BetaList and a community post such as Show HN or Indie Hackers.
 
 Compare more options in [the full list of startup launch platforms](https://blog.backd.io/best-startup-launch-platforms.html.md).
+
+## How to choose a launch platform
+
+Compare platforms on four things before you commit time to any of them:
+
+- **Audience:** founders, developers, or general early adopters. Fit matters more than size.
+- **Lifespan:** a one-day spike, or a page that keeps collecting votes and visits.
+- **Measurement:** whether you get vote counts and referrers, or only a badge.
+- **Cost:** free listing versus paid boosts.
+
+## A simple launch-week sequence
+
+- **Two weeks before:** open a waitlist and take a pre-launch listing.
+- **Launch day:** use one launch board plus one community post, such as Show HN or Indie Hackers.
+- **Same week:** add a permanent directory listing and ask early users for honest votes.
+- **Afterwards:** update the listing with each release and track which source sends signups.
 
 ## Questions
 
@@ -72,6 +88,16 @@ Every listing receives public Back or Pass votes from the community. The result 
 - You prefer its launch-board format and community. PeerPush describes its own product data as structured for AI recommendation, so review it side by side before deciding.
 
 Browse other options in [best startup launch platforms](https://blog.backd.io/best-startup-launch-platforms.html.md).
+
+## What to compare before you decide
+
+- **Ranking mechanism:** votes, upvotes, editorial picks, or paid placement.
+- **Listing lifespan:** whether the page keeps working after launch week.
+- **Agent access:** whether assistants can fetch your data through an open API, or only crawl a page.
+- **Cost:** free listing, paid boosts, or subscription.
+- **Your data:** whether you can see who voted and where traffic came from.
+
+Check each platform's own pricing and feature pages for these points, since they change.
 
 ## Questions
 
@@ -113,6 +139,17 @@ Start with a waitlist before you ship, launch on two or three boards in the same
 
 See also [Product Hunt alternatives for indie founders](https://blog.backd.io/product-hunt-alternatives.html.md).
 
+## How to pick from the list
+
+Choose by stage. Before you ship, a waitlist platform. At launch, one or two boards where your buyers already browse. After launch, one directory listing that stays live and keeps being found.
+
+## Mistakes to avoid
+
+- Listing everywhere in one afternoon, which gives you no data on which source works.
+- Launching without a clear one-sentence description. Every platform shows it first.
+- Ignoring comments and votes. Replying early is what makes a listing look alive.
+- Treating a launch day as the end. The listing that keeps collecting visits is the long-term asset.
+
 ## Questions
 
 ### What is the best place to launch a startup in 2026?
@@ -152,6 +189,10 @@ Rankings, search and single listings return JSON. The full contract is on the [A
 ## What this does and does not promise
 
 Listing makes your startup fetchable by agents. BACKD does not claim any model cited or recommended you, and it plans to publish read counts only from its own first-party logs.
+
+## Example agent workflow
+
+An assistant asked for the strongest startups in a category can list the categories, pull the rankings for one of them, then fetch a single listing for details. Each step returns structured JSON, so the assistant can cite what it read instead of guessing from marketing copy.
 
 ## Questions
 

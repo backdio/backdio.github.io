@@ -24,6 +24,16 @@ Every listing receives public Back or Pass votes from the community. The result 
 
 Browse other options in [best startup launch platforms](https://blog.backd.io/best-startup-launch-platforms.html.md).
 
+## What to compare before you decide
+
+- **Ranking mechanism:** votes, upvotes, editorial picks, or paid placement.
+- **Listing lifespan:** whether the page keeps working after launch week.
+- **Agent access:** whether assistants can fetch your data through an open API, or only crawl a page.
+- **Cost:** free listing, paid boosts, or subscription.
+- **Your data:** whether you can see who voted and where traffic came from.
+
+Check each platform's own pricing and feature pages for these points, since they change.
+
 ## Questions
 
 ### Is BACKD a PeerPush alternative?

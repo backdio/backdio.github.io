@@ -26,6 +26,10 @@ Rankings, search and single listings return JSON. The full contract is on the [A
 
 Listing makes your startup fetchable by agents. BACKD does not claim any model cited or recommended you, and it plans to publish read counts only from its own first-party logs.
 
+## Example agent workflow
+
+An assistant asked for the strongest startups in a category can list the categories, pull the rankings for one of them, then fetch a single listing for details. Each step returns structured JSON, so the assistant can cite what it read instead of guessing from marketing copy.
+
 ## Questions
 
 ### Does BACKD have an MCP server?

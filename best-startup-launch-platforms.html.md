@@ -26,6 +26,17 @@ Start with a waitlist before you ship, launch on two or three boards in the same
 
 See also [Product Hunt alternatives for indie founders](https://blog.backd.io/product-hunt-alternatives.html.md).
 
+## How to pick from the list
+
+Choose by stage. Before you ship, a waitlist platform. At launch, one or two boards where your buyers already browse. After launch, one directory listing that stays live and keeps being found.
+
+## Mistakes to avoid
+
+- Listing everywhere in one afternoon, which gives you no data on which source works.
+- Launching without a clear one-sentence description. Every platform shows it first.
+- Ignoring comments and votes. Replying early is what makes a listing look alive.
+- Treating a launch day as the end. The listing that keeps collecting visits is the long-term asset.
+
 ## Questions
 
 ### What is the best place to launch a startup in 2026?
